@@ -7,7 +7,7 @@
 
 ## Let's get start :
 
- **- Initialize AppSheet app For Task 1:** [``clicking here``](https://www.appsheet.com/Template/AppDef?appName=Lab8-InventoryManager-3856613&copy=1).
+- **Initialize AppSheet app For Task 1:** [``clicking here``](https://www.appsheet.com/Template/AppDef?appName=Lab8-InventoryManager-3856613&copy=1).
 
 
 - In the Copy app form, for App name, type **``Inventory Manager``**
@@ -15,7 +15,7 @@
 ### Once you get a score on Task 1 
 ---
 ---
- **Initialize AppSheet app For Remaining Tasks:** [``clicking here``](https://www.appsheet.com/Template/AppDef?appName=InventoryManager-939262569-24-09-03&utm_source=share_app_link).
+- **Initialize AppSheet app For Remaining Tasks:** [``clicking here``](https://www.appsheet.com/Template/AppDef?appName=InventoryManager-939262569-24-09-03&utm_source=share_app_link).
 
 
 
